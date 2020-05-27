@@ -20,3 +20,4 @@ pyinstaller --onefile --windowed part_manager.py
 # Linux
 pyinstaller -F --add-data 'db.py:.' part_manager.py
 ```
+Credits: Brad Traversy
